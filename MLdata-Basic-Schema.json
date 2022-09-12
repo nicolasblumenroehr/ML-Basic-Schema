@@ -37,6 +37,9 @@
                 "annotationFileRef": {
                     "type": "string",
                     "format": "uri"
+                },
+                "annotationChecksum": {
+                    "$ref": "#/definitions/checksum"
                 }
             }
         },
