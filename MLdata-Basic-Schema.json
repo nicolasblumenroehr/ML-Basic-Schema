@@ -9,9 +9,7 @@
             "type": "string"
         },
         "termDefinition": {
-            "description": "Provides information about the human-readable term for a feature or a label, which is optimally defined in a vocabulary. 
-            This would support an automated re-featuring or -labeling in case the data needs to be harmonized with other training data.
-            Additional properties could be implemneted to specify for example pre-prpcessing steps for the features and labels.",
+            "description": "Provides information about the human-readable term for a feature or a label, which is optimally defined in a vocabulary. This would support an automated re-featuring or -labeling in case the data needs to be harmonized with other training data. Additional properties could be implemneted to specify for example pre-prpcessing steps for the features and labels.",
             "type": "object",
             "required": ["term", "termValueDataType"],
             "properties": {
