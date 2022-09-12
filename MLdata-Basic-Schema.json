@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2019-09/schema",
-    "$id": "http://www.example.org/schema/json",
+    "$id": "",
     "title": "ML Data Basic Schema",
     "description": "Information about a set of scientific training data for applying it to machine-learning. This schema servers as a basic for structuring this information and can be extended.",
     "required": [],
